@@ -35,4 +35,5 @@
 //test 4
 // const bill = 430;
 
-// bill >= 50 && bill <= 300 ? console.log(`bill was ${bill} tip was ${bill*.15} and total is ${bill*1.15}`) : console.log(`bill was ${bill} tip was ${bill*.20} and total is ${bill*1.20}`)
+// bill >= 50 && bill <= 300 ? console.log(`bill was ${bill} tip was ${bill*.15} and total is ${bill*1.15}`) : console.log(`bill was 
+
