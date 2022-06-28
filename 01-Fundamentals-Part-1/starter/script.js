@@ -37,3 +37,4 @@
 
 // bill >= 50 && bill <= 300 ? console.log(`bill was ${bill} tip was ${bill*.15} and total is ${bill*1.15}`) : console.log(`bill was 
 
+//this is a test 
